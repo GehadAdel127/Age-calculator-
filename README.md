@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Frontend Mentor - Age calculator app
 
 ![Design preview for the Age calculator app coding challenge](./design/desktop-preview.jpg)
@@ -100,3 +101,7 @@ We love receiving feedback! We're always looking to improve our challenges and o
 This challenge is completely free. Please share it with anyone who will find it useful for practice.
 
 **Have fun building!** 🚀
+=======
+# Age-calculator-
+The Age Calculator Website is a simple and efficient tool developed using HTML, CSS, and JavaScript. It allows users to calculate their exact age in years, months, and days with precision. Featuring a clean, responsive design, it ensures a seamless user experience across all devices, showcasing interactive functionality.
+>>>>>>> 51d7adb2c97cb35d03208aafa0ed9e33db852838
